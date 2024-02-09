@@ -1,0 +1,9 @@
+/* Your code here */
+.masthead-with-scetions ul{
+    display:flex;
+    justify-content: center;
+}
+
+.masthead-with-scetions li{
+    margin: 12px;
+}
